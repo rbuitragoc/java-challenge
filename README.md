@@ -1,7 +1,7 @@
 Technical Test
 ==============
 
-Welcome to the VP Technical Test. This test consists of one design and programming exercise and two essay questions. You are free to use any publicly available Java or open source APIs. Research is acceptable, but plagiarism will not be tolerated. Please mind the detailed instructions on how to submit all the material in the "PUSHING-README.md" file.
+Welcome to the VP Technical Test. This test consists of one design and programming exercise and two essay questions. You are free to use any publicly available Java or open source APIs. Research is acceptable, but plagiarism will not be tolerated. Please mind the detailed instructions on how to submit all the material in the `PUSHING-README.md` file.
 
 The design and programming exercise is to create a random poem generator using the following grammatical rules:
 
